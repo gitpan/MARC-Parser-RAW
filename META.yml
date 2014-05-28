@@ -1,0 +1,22 @@
+---
+abstract: 'MARC RAW format parser'
+author:
+  - 'Johann Rolschewski <rolschewski@gmail.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: '6.30'
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.141170'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: MARC-Parser-RAW
+requires:
+  Encode: '2.5'
+  Readonly: '1.0'
+resources:
+  bugtracker: https://github.com/jorol/MARC-Parser-RAW/issues
+  homepage: https://github.com/jorol/MARC-Parser-RAW
+  repository: https://github.com/jorol/MARC-Parser-RAW.git
+version: '0.01'
